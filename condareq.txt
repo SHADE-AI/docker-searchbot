@@ -1,0 +1,19 @@
+attrs==20.2.0
+black==19.10b0
+flask
+nose
+numba
+pandas
+parameterized
+psutil
+pyzmq==20.0.0
+tabulate
+tensorboard
+tqdm
+typing_extensions
+
+# diplomacy_research deps
+tornado>=5.0
+protobuf>=3.6.1
+pyyaml
+requests
